@@ -1,0 +1,6 @@
+tweepy
+langchain
+openai
+requests_oauthlib
+
+requests~=2.28.1
