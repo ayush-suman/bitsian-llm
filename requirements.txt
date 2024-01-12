@@ -1,6 +1,9 @@
-tweepy
-langchain
 openai
 requests_oauthlib
-
-requests~=2.28.1
+requests
+python-dotenv
+schedule
+redis
+pymongo
+asyncio
+motor
